@@ -1,47 +1,81 @@
-# DeutschMotivation 
+# Language Trainer Introduction
 
-DeutschMotivation is AR App using this app, the user will be able to scan different German books and know which book is more suitable to learn German fast.
+Language Trainer is an augmented reality application that helps people to learn a new language by challenging them to identify objects around them in the language that they want to learn.
 
-The idea behind this app is to help international students who are willing to learn the German language to boost their career level and learn german culture in an efficient way.
-However, there are plenty of online resources and books are available in the market. 
 
-But we did not know how much knowledge we get actually after reading the book.
-So DeutschMotivation AR app helps users to quickly get an overview of the German book. 
+# Background
+Our brain stores information in a way that is easy to recall because visual images/information have more things that we instantly memorize and recall it easily. In this era where people rely heavily on their smartphones and smart devices to learn everything independently and the mobile applications like Babbel, Duolingo, Fun easy learn have made tremendous progress in the field of language learning. 
 
-E-g Using this app users will be able to get a quick overview of the book without reading the
-whole book.
+# Problem statement
+They have taken advantage of visual memory to help users learn a new language that requires very less effort. They use the vector images of food and other items that most users are familiar with and connect them with the word in a foreign language. However, they have made the language learning process far easier than before, but they still fail to engage most users for a longer period of time. 
 
-### Features
+<img width="1292" alt="Bildschirmfoto 2021-02-03 um 5 50 26 PM" src="https://user-images.githubusercontent.com/15051692/106780590-74e86d80-6648-11eb-9a6a-3979bdb5460a.png">
 
-✔ Users will know easily their German-language Level?
+# Solutions
+So i recognized this gap and made use of the principles of contextual augmented reality to engage and motivate users to construct their knowledge during real-world observation. 
 
-✔  How many words they will learn?
+- WIth the help of Language Lerner app, user will be able to Identify any object around them and learn the name of that specifc object.
+- Build their knowledge during real-world observation.
+- Get a quick overview of the language book without reading the whole book. And know which book is more suitable to learn language fast. for example
 
-✔ How many sentences they will learn?
+✔ How many words user will learn?
+
+✔ How many sentences user will learn?
 
 ✔ How much time does it take to complete the book?
 
-✔ Which of the skill(Reading, Writing, Listening, Speaking) will boost after reading this book?
+✔ Which of the skill(Reading, Writing, Listening, Speaking) will boost after reading the book?
+
+<img width="638" alt="Bildschirmfoto 2021-02-03 um 5 56 31 PM" src="https://user-images.githubusercontent.com/15051692/106781286-30110680-6649-11eb-83c3-87a840b289d6.png">
 
 
-## Project Requirements: 
+<img width="736" alt="Bildschirmfoto 2021-02-03 um 5 56 38 PM" src="https://user-images.githubusercontent.com/15051692/106781295-330bf700-6649-11eb-9cfd-b4c26d2fc86c.png">
 
-Following are the things that are required to create this app.
-• Unity 3D
-• Vuforia
-• Figma
-• AR Hardware (Tablet/SmartPhone)
+# Process (User Centered Design)
+### Initial Concept
+Finalize idea to design some thing in the education field.
+### Market Research
+Research on different learning apps and understand the problem and competitors.
+### User Research
+After market analysis I conducted many user interviews and create user persons.
+### Design and ideation
+Then design wireframes and prototypes of the app ideas.
+### Implementation & testing
+After completing first draft of design.  Test app and get feedback on it. (Process repeat)
 
-## User Personas:
+# Competitive analysis
+<img width="1000" alt="Bildschirmfoto 2021-01-31 um 4 28 53 PM" src="https://user-images.githubusercontent.com/15051692/106782116-1623f380-664a-11eb-96dd-96e06ca44ff3.png">
+
+# User groups
+<img width="1161" alt="Bildschirmfoto 2021-02-03 um 6 04 55 PM" src="https://user-images.githubusercontent.com/15051692/106782353-5a16f880-664a-11eb-8e86-0119af522270.png">
+
+
+# User Personas:
 <img width="806" alt="Screenshot 2020-12-14 at 10 45 19 AM" src="https://user-images.githubusercontent.com/15051692/102065998-8c01a080-3df9-11eb-82ba-0fe3743ad753.png">
 
 <img width="828" alt="Screenshot 2020-12-14 at 10 45 28 AM" src="https://user-images.githubusercontent.com/15051692/102066007-8f952780-3df9-11eb-961a-3c4805529bc8.png">
 
 <img width="842" alt="Screenshot 2020-12-14 at 10 45 35 AM" src="https://user-images.githubusercontent.com/15051692/102066011-90c65480-3df9-11eb-8dc9-7191861f0f15.png">
 
+# Research Key Takeaways
 
+- Need to learn a new languages when they move to a place where most people speak in a different languages.
+- Learning apps don’t provide in depth knowledge
+- Too many reminders and same kinds of questions
 
-## Sketches/Mockups:
+# Project Requirements/ Tools: 
+
+<img width="1347" alt="Bildschirmfoto 2021-02-03 um 6 10 24 PM" src="https://user-images.githubusercontent.com/15051692/106783010-1ec8f980-664b-11eb-8530-338323ade81d.png">
+
+# Userflow
+<img width="1163" alt="Bildschirmfoto 2021-01-31 um 5 23 02 PM" src="https://user-images.githubusercontent.com/15051692/106783242-5d5eb400-664b-11eb-967e-5e211414814c.png">
+
+<img width="1001" alt="Bildschirmfoto 2021-01-31 um 5 10 50 PM" src="https://user-images.githubusercontent.com/15051692/106783251-5fc10e00-664b-11eb-8428-7854a8de4a04.png">
+
+# App Wireframes
+<img width="1140" alt="Bildschirmfoto 2021-02-03 um 6 13 52 PM" src="https://user-images.githubusercontent.com/15051692/106783443-9d259b80-664b-11eb-9a6e-6af0b99294f4.png">
+
+# High fidelity prototypes
 
 ### Splash Screen
 
@@ -56,13 +90,8 @@ Following are the things that are required to create this app.
 ### Result Screen(Where app will give quick overview of the book to the user)
 <img width="355" alt="Screenshot 2020-12-14 at 10 48 33 AM" src="https://user-images.githubusercontent.com/15051692/102066321-f61a4580-3df9-11eb-9d4a-9bd2fb799406.png">
 
-
-### Contributor
-
-Malik Ali
-
-
-# DeutschMotivation App Feedback
+# User Testing & feedback
+The purpose of this testing was to garner feedback from users and evaluate what they find confusing or delightful about the app.
 
 #### How would you describe your overall experience with the AR/VR application?
 Ans: 5- I like it very much
@@ -89,42 +118,17 @@ Ans: Occasionally
 Ans: This isn't really an issue, but some of the "covers" seemed to use "fake" data which for me lessened the experience of using the app. There was one cover that looked like it had "real" study data on it, which was a much more immersive and enjoyable experience for me. If all of the covers had real looking data on it, it would have made the experience a little more positive.
 
 
+# Feedback Implementation and live demo
+new screen shot or video
 
 
+# Future implementation
+- Concepts of gamification in order to increase engagement
+- Location based live chatting between learners
+- Language teachers can earn money through teach language
 
-# CookAR App Feedback
+# Lesson i learned
 
-#### How would you describe your overall experience with the AR/VR application?
+### Contributor
 
-Ans: My overall experience with CookAR App was very wonderful. And I like the concept very much.
-
-
-#### What did you like the most about using this product?
-Ans: I like the quick recipe feature in the app very much
-
-#### What did you like the least?
-Ans: User guidance for the new recipe 
-
-#### What, if anything, surprised you about the experience?
-Ans: As a new user, I easily understand this app very quickly without any previous knowledge.
-
-#### What, if anything, caused you frustration?
-Ans: Nothing
-
-#### On a scale from 1 to 5 (1=not at all likely, 5=very likely), how likely are you to recommend this product to a friend?
-
-Ans: 5=very likely
-
-
-#### How frequently would you use this product? [Never, Very Rarely (once per month), Rarely (2-3 times/month), Occasionally (2-3 times/week), Frequently (1-2 times/day), Very Frequently (3+ times/day)]
-Ans: Occasionally
-
-
-#### What features should be improved or added?
-Ans: Add Instruction wizards or tutorial “How to use app” for new users.
-
-
-
-
-
-
+Malik Ali
