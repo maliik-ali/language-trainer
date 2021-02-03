@@ -68,9 +68,10 @@ After completing the first draft of the design.  Test app and get feedback on it
 <img width="1347" alt="Bildschirmfoto 2021-02-03 um 6 10 24 PM" src="https://user-images.githubusercontent.com/15051692/106783010-1ec8f980-664b-11eb-8530-338323ade81d.png">
 
 # Userflow
-<img width="1163" alt="Bildschirmfoto 2021-01-31 um 5 23 02 PM" src="https://user-images.githubusercontent.com/15051692/106783242-5d5eb400-664b-11eb-967e-5e211414814c.png">
 
 <img width="1001" alt="Bildschirmfoto 2021-01-31 um 5 10 50 PM" src="https://user-images.githubusercontent.com/15051692/106783251-5fc10e00-664b-11eb-8428-7854a8de4a04.png">
+
+<img width="1163" alt="Bildschirmfoto 2021-01-31 um 5 23 02 PM" src="https://user-images.githubusercontent.com/15051692/106783242-5d5eb400-664b-11eb-967e-5e211414814c.png">
 
 # App Wireframes
 <img width="1140" alt="Bildschirmfoto 2021-02-03 um 6 13 52 PM" src="https://user-images.githubusercontent.com/15051692/106783443-9d259b80-664b-11eb-9a6e-6af0b99294f4.png">
