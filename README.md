@@ -136,6 +136,7 @@ Here are some specific things that I learned.
 - Model Targets, Object Recognition using Vuforia.
 - Animations and sound implementations.
 - Building and publishing apps on different platforms.
+- Code committing and the use of Github.
 
 
 ### Contributor
