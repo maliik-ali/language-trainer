@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Book-B1-main" size="100.000000 144.839020" />
+    <ImageTarget name="Book-A2-main" size="100.000000 145.241379" />
+    <ImageTarget name="4" size="100.000000 133.333328" />
+    <ImageTarget name="3" size="100.000000 133.333328" />
+    <ImageTarget name="2" size="100.000000 133.333328" />
+    <ImageTarget name="IMG_20210131_121716" size="100.000000 287.230652" />
+    <ImageTarget name="IMG_20210131_120845" size="100.000000 215.528351" />
+    <ImageTarget name="olive-oil" size="100.000000 248.138641" />
+    <ImageTarget name="Milk-1" size="100.000000 280.679260" />
+    <ImageTarget name="Ozzy11" size="5.000000 7.507331" />
+  </Tracking>
+</QCARConfig>
