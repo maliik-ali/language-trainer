@@ -14,7 +14,7 @@ They have taken advantage of visual memory to help users learn a new language th
 # Solutions
 So I recognized this gap and made use of the principles of contextual augmented reality to engage and motivate users to construct their knowledge during real-world observation.
 
-- With the help of the Language Lerner app, the user will be able to Identify any object around them and learn the name of that specific object.
+- With the help of the Language Trainer app, the user will be able to Identify any object around them and learn the name of that specific object.
 - Build their knowledge during real-world observation.
 - Get a quick overview of the language book without reading the whole book. And know which book is more suitable to learn a language fast. for example
 
@@ -127,8 +127,16 @@ new screen shot or video
 - Concepts of gamification in order to increase engagement.
 - Location-based live chatting between learners.
 - Language teachers can earn money through teaching language.
+- Multiple languages support.
 
-# Lesson i learned
+# Lesson learned
+After working on this nice project under the supervision of Mr. Thomas Grauschopf,  Riegler Andreas, Sawitzky Tamara I'm able to get a very good knowledge of Unity3D, Vuforia (Augmented reality).
+Here are some specific things that I learned.
+- Vuforia database creation.
+- Model Targets, Object Recognition using Vuforia.
+- Animations and sound implementations.
+- Building and publishing apps on different platforms.
+
 
 ### Contributor
 
