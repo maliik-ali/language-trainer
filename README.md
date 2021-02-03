@@ -12,15 +12,15 @@ They have taken advantage of visual memory to help users learn a new language th
 <img width="1292" alt="Bildschirmfoto 2021-02-03 um 5 50 26 PM" src="https://user-images.githubusercontent.com/15051692/106780590-74e86d80-6648-11eb-9a6a-3979bdb5460a.png">
 
 # Solutions
-So i recognized this gap and made use of the principles of contextual augmented reality to engage and motivate users to construct their knowledge during real-world observation. 
+So I recognized this gap and made use of the principles of contextual augmented reality to engage and motivate users to construct their knowledge during real-world observation.
 
-- WIth the help of Language Lerner app, user will be able to Identify any object around them and learn the name of that specifc object.
+- With the help of the Language Lerner app, the user will be able to Identify any object around them and learn the name of that specific object.
 - Build their knowledge during real-world observation.
-- Get a quick overview of the language book without reading the whole book. And know which book is more suitable to learn language fast. for example
+- Get a quick overview of the language book without reading the whole book. And know which book is more suitable to learn a language fast. for example
 
-✔ How many words user will learn?
+✔ How many words the user will learn?
 
-✔ How many sentences user will learn?
+✔ How many sentences the user will learn?
 
 ✔ How much time does it take to complete the book?
 
@@ -31,17 +31,17 @@ So i recognized this gap and made use of the principles of contextual augmented 
 
 <img width="736" alt="Bildschirmfoto 2021-02-03 um 5 56 38 PM" src="https://user-images.githubusercontent.com/15051692/106781295-330bf700-6649-11eb-9cfd-b4c26d2fc86c.png">
 
-# Process (User Centered Design)
+# Process (User-Centered Design)
 ### Initial Concept
-Finalize idea to design some thing in the education field.
+Finalize idea to design something in the education field.
 ### Market Research
 Research on different learning apps and understand the problem and competitors.
 ### User Research
-After market analysis I conducted many user interviews and create user persons.
+After market analysis I conducted many user interviews and create user personas.
 ### Design and ideation
 Then design wireframes and prototypes of the app ideas.
 ### Implementation & testing
-After completing first draft of design.  Test app and get feedback on it. (Process repeat)
+After completing the first draft of the design.  Test app and get feedback on it. (Process repeat)
 
 # Competitive analysis
 <img width="1000" alt="Bildschirmfoto 2021-01-31 um 4 28 53 PM" src="https://user-images.githubusercontent.com/15051692/106782116-1623f380-664a-11eb-96dd-96e06ca44ff3.png">
@@ -59,9 +59,9 @@ After completing first draft of design.  Test app and get feedback on it. (Proce
 
 # Research Key Takeaways
 
-- Need to learn a new languages when they move to a place where most people speak in a different languages.
-- Learning apps don’t provide in depth knowledge
-- Too many reminders and same kinds of questions
+- Need to learn a new language when they move to a place where most people speak in different languages.
+- Learning apps don’t provide in-depth knowledge
+- Too many reminders and the same kinds of questions
 
 # Project Requirements/ Tools: 
 
@@ -123,9 +123,9 @@ new screen shot or video
 
 
 # Future implementation
-- Concepts of gamification in order to increase engagement
-- Location based live chatting between learners
-- Language teachers can earn money through teach language
+- Concepts of gamification in order to increase engagement.
+- Location-based live chatting between learners.
+- Language teachers can earn money through teaching language.
 
 # Lesson i learned
 
