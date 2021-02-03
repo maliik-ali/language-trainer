@@ -121,14 +121,14 @@ Ans: This isn't really an issue, but some of the "covers" seemed to use "fake" d
 
 # Feedback Implementation and live demo
 ## Scan German Book.
-####Special Feature: This app scans both Handbook and Pdf book for the user and gives a quick overview.
+#### Special Feature: This app scans both Handbook and Pdf book for the user and gives a quick overview.
 
 https://www.youtube.com/watch?v=Vv8e10DxEpg&feature=youtu.be
 
 ## Learn new words through scan real objects.
 
 For example, As a user, I'm in the supermarket and want to know the name of anything in "German. So this app tells me the name of that thing in the German language with clear pronunciation.
-####Special Feature: In the supermarket, this app easily recognizes different versions and brands and tells the user e-g Milk.
+#### Special Feature: In the supermarket, this app easily recognizes different versions and brands and tells the user e-g Milk.
 
 https://www.youtube.com/watch?v=K91x576L7ZE&feature=youtu.be
 
